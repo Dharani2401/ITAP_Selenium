@@ -1,3 +1,2 @@
 @echo off
-For /d /R %%G IN (script.py) do IF EXIST %%G python json/script.py %%G
-find . -script "*/script.py"
+For /d %%G IN (script.py) do IF EXIST %%G python json/script.py %%G
