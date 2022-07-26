@@ -1,2 +1,2 @@
 @echo off
-For /d %%G IN (json) do IF EXIST %%G python script.py %%G
+For /d/r %%G IN (script.py) do IF EXIST %%G python script.py %%G
