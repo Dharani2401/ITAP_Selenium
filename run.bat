@@ -1,4 +1,4 @@
-#!/bin/bash
+@echo off
 
 for py_file in $(find ../script -script *.py)
 do
