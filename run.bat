@@ -1,6 +1,2 @@
 @echo off
-
-for py_file in $(find ../script -script *.py)
-do
-    python $py_file
-done
+For /d %%G IN (script) do IF EXIST %%G python script.py %%G
