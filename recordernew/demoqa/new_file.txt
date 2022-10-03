@@ -1,0 +1,1 @@
+Open Browser    https://demoqa.com/text-box    ${BROWSER},Input Text    //input[@id="userName"]    fhfd,Input Text    //input[@id="userEmail"]    ffdjj,Input Text    //textarea[@id="currentAddress"]    ffjfgkg,Input Text    //textarea[@id="permanentAddress"]    fjfjfg,Click Element    //path
