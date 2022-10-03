@@ -193,6 +193,7 @@ try:
         total=str(total).split(".")[0]
         final = "total time taken : " + total
         external_file.write("test passed - no errors" + "\n" +steps + "\n"+message+ "\nxpath list " + str(xpath_list) + "\nvalue list " + str(value_list) +"\nclass name list " + str(classname_list) +"\ntext list " + str(text_list)  + "\n"+ final )
+    print("test passed - no errors", message)
     driver.close()
 except Exception as e:
     print(e)
@@ -201,5 +202,6 @@ except Exception as e:
     total=str(total).split(".")[0]
     path = open("D:\iTAP\Recorded_Scenarios\\recordernew\\demoqa\\logfile.log", 'w+')
     path.write("test case failed:"+ str(e) + '\n' + steps +  "\n"+message+ "\n Execution stopped at : " +lines + "\nxpath list " + str(xpath_list) + "\nvalue list " + str(value_list) +"\nclass name list " + str(classname_list) +"\ntext list " + str(text_list)  +" \n total time taken : "+total)
+    print("test case failed: ", message)
     path.close()
     driver.close()
