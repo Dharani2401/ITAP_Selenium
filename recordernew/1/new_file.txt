@@ -1,1 +1,0 @@
-Open Browser    https://www.saucedemo.com/    ${BROWSER},Input Text    //input[@name="user-name"]    itrkrt,Input Text    //input[@name="password"]    djtjtrj,Click Element    //input[@name="login-button"],Click Element    //h4,Click Element    xpath=(//div)[3],Click Element    xpath=(//div)[11]
