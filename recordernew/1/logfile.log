@@ -1,0 +1,14 @@
+test passed - no errors
+
+test_step_inputitrkrt
+test_step_inputdjtjtrj
+test_step_click
+test_step_click
+test_step_click
+test_step_click
+
+xpath list ['Open_Browser']
+value list ['https://www.saucedemo.com/']
+class name list ['']
+text list ['']
+total time taken : 0:00:07

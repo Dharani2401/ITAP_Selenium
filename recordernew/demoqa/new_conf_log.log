@@ -1,0 +1,20 @@
+{'Date': '30/09/2022', 'Time': '12:59:53', 'Application Name': 'recordernew', 'Scenario Name': 'demoqa', 'Status': 'Failed', 'Time Taken': '0:00:35', 'Message': '\ntest case failed:Element Not Found\n\n Error : Execution stopped at step 6 .\n\n Execution stopped at : step : 6\n'},
+
+{'Date': '30/09/2022', 'Time': '13:01:02', 'Application Name': 'recordernew', 'Scenario Name': 'demoqa', 'Status': 'Passed', 'Time Taken': '0:00:19', 'Message': ''},
+
+{'Date': '30/09/2022', 'Time': '13:36:16', 'Application Name': 'recordernew', 'Scenario Name': 'demoqa', 'Status': 'Passed', 'Time Taken': '0:00:28', 'Message': '\n <-- STEP 4 MESSAGE --> \n\nAssertion Passed : expected count [2] equal to [2]\n'},
+
+{'Date': '30/09/2022', 'Time': '13:38:01', 'Application Name': 'recordernew', 'Scenario Name': 'demoqa', 'Status': 'Passed', 'Time Taken': '0:00:18', 'Message': '\n <-- STEP 4 MESSAGE --> \n\nAssertion Passed : expected count [2] equal to [2]\n\n <-- STEP 7 MESSAGE --> \n\nError : Element not found\n'},
+
+{'Date': '30/09/2022', 'Time': '13:41:13', 'Application Name': 'recordernew', 'Scenario Name': 'demoqa', 'Status': 'Passed', 'Time Taken': '0:01:05', 'Message': '\n <-- STEP 4 MESSAGE --> \n\nAssertion Passed : expected count [2] equal to [2]\n\n <-- STEP 7 MESSAGE --> \n\nError : Element not found\n'},
+
+{'Date': '30/09/2022', 'Time': '13:41:51', 'Application Name': 'recordernew', 'Scenario Name': 'demoqa', 'Status': 'Failed', 'Time Taken': '0:00:02', 'Message': ' invalid argument\n Execution stopped at : \n'},
+
+{'Date': '30/09/2022', 'Time': '13:43:27', 'Application Name': 'recordernew', 'Scenario Name': 'demoqa', 'Status': 'Passed', 'Time Taken': '0:00:45', 'Message': '\n <-- STEP 5 MESSAGE --> \n\nAssertion Passed : expected count [2] equal to [2]\n\n <-- STEP 8 MESSAGE --> \n\nError : Element not found\n'},
+
+{'Date': '30/09/2022', 'Time': '13:43:51', 'Application Name': 'recordernew', 'Scenario Name': 'demoqa', 'Status': 'Failed', 'Time Taken': '0:00:08', 'Message': ' no such window: target window already closed\n Execution stopped at : \n'},
+
+{'Date': '03/10/2022', 'Time': '12:01:01', 'Application Name': 'recordernew', 'Scenario Name': 'demoqa', 'Status': 'Failed', 'Time Taken': '0:01:56', 'Message': ' no such window: target window already closed\n Execution stopped at : \n'},
+
+{'Date': '03/10/2022', 'Time': '12:01:02', 'Application Name': 'recordernew', 'Scenario Name': 'demoqa', 'Status': 'Failed', 'Time Taken': '0:01:56', 'Message': ' no such window: target window already closed\n Execution stopped at : \n'},
+
